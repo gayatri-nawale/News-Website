@@ -12,10 +12,14 @@ cd News
 ```
 
 #install dependencies
+```bash
 npm install
-
+```
 ## Create .env file 
+```bash
 VITE_NEWS_API=your_api_key_here
-
+```
 ## run 
+```bash
 npm dev run 
+```
